@@ -40,8 +40,8 @@ li a:hover {
    position: absolute;
    width: 100%;
    height: 35px;
-   background: blue;
-   color: blanchedalmond;
+   background: white;
+   color: white;
    bottom: 0;
    display: flex;
    justify-content: center;
